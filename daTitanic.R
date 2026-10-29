@@ -1,4 +1,4 @@
-titanic = read.csv("/Users/akmbaziira/Desktop/titanic.csv")
+titanic = read.csv("./titanic.csv")
 head(titanic)
 
 cls <- sapply(titanic, class)

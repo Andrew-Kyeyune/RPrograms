@@ -1,0 +1,8 @@
+output: html_notebook
+time  <- seq(0, 60, length.out=121)
+print(time)
+seq(0, 1, by = 0.1)
+seq(1, 101, by = 5)
+rep(1:4, length.out = 10)
+responses <- rep(1:5, each = 4)
+print(responses)
